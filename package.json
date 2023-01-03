@@ -1,0 +1,12 @@
+{
+  "name": "bad-roofers-inc",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/DevMiduz/bad-roofers-inc.git",
+  "author": "Dev Miduz",
+  "license": "MIT",
+  "private": null,
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
