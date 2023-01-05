@@ -2,6 +2,66 @@
 @import "/node_modules/spectre.css/dist/spectre-exp.css";
 @import "/node_modules/spectre.css/dist/spectre-icons.css";
 
-.hero.hero-main {
-  background-color: #ff3a4e;
+// Responsive breakpoints
+$size-xs: 480px !default;
+$size-sm: 600px !default;
+$size-md: 840px !default;
+$size-lg: 960px !default;
+$size-xl: 1280px !default;
+$size-2x: 1440px !default;
+
+
+@media (max-width: $size-xs) {
+  .body-container .left-content {
+    display: none !important;
+  }
+}
+
+@media (max-width: $size-sm) {
+  .body-container .left-content {
+    display: none !important;
+  }
+}
+
+@media (min-width: $size-md) {
+  .body-container .left-content {
+    display: block !important;
+  }
+}
+
+.body-container {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.body-container .left-content {
+  display: block;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 200px;
+  height: 100%;
+  float: left;
+}
+
+.body-container .right-content {
+  overflow: hidden;
+  padding: 2rem;
+}
+
+.navigation-base {
+  display: block;
+  position: relative;
+  width: 200px;
+  height: 100%;
+  float: left;
+}
+
+footer {
+  clear: both;
+}
+
+html,
+body {
+  height: 100%;
 }
