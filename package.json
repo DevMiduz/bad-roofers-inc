@@ -6,7 +6,18 @@
   "author": "Dev Miduz",
   "license": "MIT",
   "private": null,
+  "source": "src/index.ejs",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
   "devDependencies": {
-    "parcel": "^2.8.2"
+    "@parcel/transformer-sass": "2.8.2",
+    "parcel": "^2.8.2",
+    "parcel-transformer-ejs": "^1.0.1",
+    "parcel-transformer-handlebars": "^1.0.0"
+  },
+  "dependencies": {
+    "spectre.css": "^0.5.9"
   }
 }
