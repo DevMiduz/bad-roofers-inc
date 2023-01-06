@@ -8,8 +8,8 @@
   "private": null,
   "source": "src/index.ejs",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "start": "parcel --public-url /",
+    "build": "parcel build --public-url /"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "2.8.2",
