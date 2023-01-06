@@ -1,8 +1,8 @@
 5316
 53/home/adrian/Development/bad-roofers-inc/package.json1672924843985046053 0
-68/home/adrian/Development/bad-roofers-inc/dist/index.2dddc1ed.css.map1672934168698966668 0
-64/home/adrian/Development/bad-roofers-inc/dist/index.2dddc1ed.css1672934168666965422 0
-45/home/adrian/Development/bad-roofers-inc/dist1672934168698966668 1
+68/home/adrian/Development/bad-roofers-inc/dist/index.2dddc1ed.css.map1672948431893184207 0
+64/home/adrian/Development/bad-roofers-inc/dist/index.2dddc1ed.css1672948431893184207 0
+45/home/adrian/Development/bad-roofers-inc/dist1672948571489197234 1
 50/home/adrian/Development/bad-roofers-inc/README.md1672749341747955962 0
 65/home/adrian/Development/bad-roofers-inc/node_modules/.bin/terser1672924843837045665 0
 65/home/adrian/Development/bad-roofers-inc/node_modules/.bin/semver1672924843837045665 0
@@ -314,7 +314,7 @@
 77/home/adrian/Development/bad-roofers-inc/node_modules/async/dist/async.min.js1672919618000000000 0
 68/home/adrian/Development/bad-roofers-inc/node_modules/balanced-match1672921676921909953 1
 85/home/adrian/Development/bad-roofers-inc/node_modules/caniuse-lite/data/regions/SM.js1672921656000000000 0
-77/home/adrian/Development/bad-roofers-inc/dist/bad-roofers-inc.0ed98494.js.map1672933993493093228 0
+77/home/adrian/Development/bad-roofers-inc/dist/bad-roofers-inc.0ed98494.js.map1672948012892976167 0
 95/home/adrian/Development/bad-roofers-inc/node_modules/@swc/helpers/src/_array_without_holes.mjs1672921655000000000 0
 77/home/adrian/Development/bad-roofers-inc/node_modules/escalade/dist/index.mjs1672919619000000000 0
 96/home/adrian/Development/bad-roofers-inc/node_modules/caniuse-lite/data/features/css-autofill.js1672921656000000000 0
@@ -491,7 +491,7 @@
 97/home/adrian/Development/bad-roofers-inc/node_modules/@parcel/optimizer-svgo/lib/SVGOOptimizer.js1672921650000000000 0
 83/home/adrian/Development/bad-roofers-inc/node_modules/@swc/helpers/src/_type_of.mjs1672921655000000000 0
 91/home/adrian/Development/bad-roofers-inc/node_modules/@swc/helpers/lib/_class_call_check.js1672921655000000000 0
-61/home/adrian/Development/bad-roofers-inc/src/partials/nav.ejs1672933038155276383 0
+61/home/adrian/Development/bad-roofers-inc/src/partials/nav.ejs1672945326694047823 0
 74/home/adrian/Development/bad-roofers-inc/node_modules/neo-async/memoize.js1672921665000000000 0
 94/home/adrian/Development/bad-roofers-inc/node_modules/@swc/helpers/src/_async_to_generator.mjs1672921655000000000 0
 95/home/adrian/Development/bad-roofers-inc/node_modules/@swc/helpers/src/_object_spread_props.mjs1672921655000000000 0
@@ -1497,7 +1497,7 @@
 81/home/adrian/Development/bad-roofers-inc/node_modules/@jridgewell/sourcemap-codec1672921676905909948 1
 86/home/adrian/Development/bad-roofers-inc/node_modules/css-what/lib/commonjs/index.d.ts1672921665000000000 0
 88/home/adrian/Development/bad-roofers-inc/node_modules/lines-and-columns/build/index.d.ts1672919620000000000 0
-66/home/adrian/Development/bad-roofers-inc/src/assets/css/style.scss1672934226057085582 0
+66/home/adrian/Development/bad-roofers-inc/src/assets/css/style.scss1672948431873184203 0
 84/home/adrian/Development/bad-roofers-inc/node_modules/node-addon-api/tools/README.md1672921656000000000 0
 73/home/adrian/Development/bad-roofers-inc/node_modules/is-json/.travis.yml1672921662000000000 0
 82/home/adrian/Development/bad-roofers-inc/node_modules/entities/lib/encode.d.ts.map1672921665000000000 0
@@ -2038,7 +2038,7 @@
 81/home/adrian/Development/bad-roofers-inc/node_modules/cosmiconfig/dist/types.d.ts1672921660000000000 0
 125/home/adrian/Development/bad-roofers-inc/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js1672919620000000000 0
 73/home/adrian/Development/bad-roofers-inc/node_modules/handlebars/dist/amd1672921682057911076 1
-54/home/adrian/Development/bad-roofers-inc/src/index.ejs1672931601739329903 0
+54/home/adrian/Development/bad-roofers-inc/src/index.ejs1672948571453197234 0
 86/home/adrian/Development/bad-roofers-inc/node_modules/source-map-js/lib/source-node.js1672923727000000000 0
 88/home/adrian/Development/bad-roofers-inc/node_modules/@parcel/core/src/serializerCore.js1672921649000000000 0
 105/home/adrian/Development/bad-roofers-inc/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_stat.11672921655000000000 0
@@ -2274,7 +2274,7 @@
 81/home/adrian/Development/bad-roofers-inc/node_modules/cosmiconfig/dist/index.d.ts1672921660000000000 0
 74/home/adrian/Development/bad-roofers-inc/node_modules/color-name/README.md1672919619000000000 0
 93/home/adrian/Development/bad-roofers-inc/node_modules/spectre.css/docs/components/toasts.html1672924840000000000 0
-67/home/adrian/Development/bad-roofers-inc/dist/index.b4ce7916.js.map1672933993493093228 0
+67/home/adrian/Development/bad-roofers-inc/dist/index.b4ce7916.js.map1672942793621870427 0
 59/home/adrian/Development/bad-roofers-inc/node_modules/chalk1672921676925909952 1
 77/home/adrian/Development/bad-roofers-inc/node_modules/color-name/package.json1672919619000000000 0
 61/home/adrian/Development/bad-roofers-inc/node_modules/timsort1672921679329910431 1
@@ -2496,7 +2496,7 @@
 94/home/adrian/Development/bad-roofers-inc/node_modules/utility-types/dist/functional-helpers.js1672921655000000000 0
 79/home/adrian/Development/bad-roofers-inc/node_modules/htmlnano/docs/sidebars.js1672921654000000000 0
 72/home/adrian/Development/bad-roofers-inc/node_modules/handlebars/LICENSE1672921665000000000 0
-73/home/adrian/Development/bad-roofers-inc/dist/bad-roofers-inc.0ed98494.js1672933993493093228 0
+73/home/adrian/Development/bad-roofers-inc/dist/bad-roofers-inc.0ed98494.js1672948012892976167 0
 62/home/adrian/Development/bad-roofers-inc/node_modules/readdirp1672923729389761113 1
 60/home/adrian/Development/bad-roofers-inc/node_modules/semver1672921679273910419 1
 77/home/adrian/Development/bad-roofers-inc/node_modules/htmlnano/docs/README.md1672921654000000000 0
@@ -2895,7 +2895,7 @@
 88/home/adrian/Development/bad-roofers-inc/node_modules/type-fest/ts41/delimiter-case.d.ts1672921662000000000 0
 64/home/adrian/Development/bad-roofers-inc/node_modules/is-extglob1672923729373761229 1
 81/home/adrian/Development/bad-roofers-inc/node_modules/source-map-js/lib/base64.js1672923727000000000 0
-56/home/adrian/Development/bad-roofers-inc/dist/index.html1672933993545092916 0
+56/home/adrian/Development/bad-roofers-inc/dist/index.html1672948571473197234 0
 76/home/adrian/Development/bad-roofers-inc/node_modules/parcel-transformer-ejs1672924843617045088 1
 72/home/adrian/Development/bad-roofers-inc/node_modules/is-extglob/LICENSE1672923727000000000 0
 93/home/adrian/Development/bad-roofers-inc/node_modules/@swc/helpers/lib/_is_native_function.js1672921655000000000 0
@@ -4546,7 +4546,7 @@
 76/home/adrian/Development/bad-roofers-inc/node_modules/css-tree/lib/convertor1672921681193910860 1
 92/home/adrian/Development/bad-roofers-inc/node_modules/caniuse-lite/data/features/template.js1672921656000000000 0
 97/home/adrian/Development/bad-roofers-inc/node_modules/caniuse-lite/data/features/mediarecorder.js1672921656000000000 0
-63/home/adrian/Development/bad-roofers-inc/dist/index.b4ce7916.js1672933993493093228 0
+63/home/adrian/Development/bad-roofers-inc/dist/index.b4ce7916.js1672942793617870441 0
 103/home/adrian/Development/bad-roofers-inc/node_modules/caniuse-lite/data/features/css-overflow-anchor.js1672921656000000000 0
 81/home/adrian/Development/bad-roofers-inc/node_modules/@parcel/events/package.json1672921649000000000 0
 96/home/adrian/Development/bad-roofers-inc/node_modules/caniuse-lite/data/features/border-image.js1672921656000000000 0

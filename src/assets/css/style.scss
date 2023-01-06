@@ -10,53 +10,6 @@ $size-lg: 960px !default;
 $size-xl: 1280px !default;
 $size-2x: 1440px !default;
 
-
-@media (max-width: $size-xs) {
-  .body-container .left-content {
-    display: none !important;
-  }
-}
-
-@media (max-width: $size-sm) {
-  .body-container .left-content {
-    display: none !important;
-  }
-}
-
-@media (min-width: $size-md) {
-  .body-container .left-content {
-    display: block !important;
-  }
-}
-
-.body-container {
-  min-width: 100%;
-  min-height: 100%;
-}
-
-.body-container .left-content {
-  display: block;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  width: 200px;
-  height: 100%;
-  float: left;
-}
-
-.body-container .right-content {
-  overflow: hidden;
-  padding: 2rem;
-}
-
-.navigation-base {
-  display: block;
-  position: relative;
-  width: 200px;
-  height: 100%;
-  float: left;
-}
-
 footer {
   clear: both;
 }
@@ -64,4 +17,101 @@ footer {
 html,
 body {
   height: 100%;
+}
+
+/* body container START */
+.body-container {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.body-container .left-content {
+  background-color: white;
+  ;
+}
+
+.body-container .right-content {
+  overflow: hidden;
+  padding: 2rem;
+}
+
+/* body container END */
+.navigation-base {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+
+/* Menu Icon START */
+.mi-container {
+  position: fixed;
+  display: inline-block;
+  cursor: pointer;
+  top: 15px;
+  right: 15px;
+  z-index: 100;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+/* Rotate first bar */
+.change .bar1 {
+  transform: translate(0, 11px) rotate(-45deg);
+}
+
+/* Fade out the second bar */
+.change .bar2 {
+  opacity: 0;
+}
+
+/* Rotate last bar */
+.change .bar3 {
+  transform: translate(0, -11px) rotate(45deg);
+}
+
+/* Menu Icon END */
+
+@media (max-width: $size-md) {
+  .body-container .left-content {
+    display: block !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    float: left;
+  }
+
+  .mi-container {
+    position: fixed;
+    display: inline-block;
+    cursor: pointer;
+    top: 15px;
+    right: 15px;
+  }
+}
+
+@media (min-width: $size-md) {
+  .body-container .left-content {
+    display: block !important;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 200px;
+    height: 100%;
+    float: left;
+  }
+
+  .mi-container {
+    display: none;
+  }
 }
