@@ -10,6 +10,7 @@ $size-lg: 960px !default;
 $size-xl: 1280px !default;
 $size-2x: 1440px !default;
 
+header,
 footer {
   clear: both;
 }
@@ -27,13 +28,14 @@ body {
 
 .body-container .left-content {
   background-color: white;
-  ;
+
 }
 
 .body-container .right-content {
-  border-left: black 1px solid;
   overflow: hidden;
   padding: 2rem;
+  min-height: 100vh;
+  height: 100%;
 }
 
 /* body container END */
