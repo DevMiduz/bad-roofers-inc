@@ -18,6 +18,7 @@
     "parcel-transformer-handlebars": "^1.0.0"
   },
   "dependencies": {
-    "spectre.css": "^0.5.9"
+    "cutestrap": "^2.0.0-4",
+    "normalize.css": "^8.0.1"
   }
 }

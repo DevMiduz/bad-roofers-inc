@@ -1,6 +1,12 @@
+/*
 @import "/node_modules/spectre.css/dist/spectre.css";
 @import "/node_modules/spectre.css/dist/spectre-exp.css";
 @import "/node_modules/spectre.css/dist/spectre-icons.css";
+*/
+
+@import "/node_modules/normalize.css/normalize.css";
+@import "/node_modules/cutestrap/dist/css/cutestrap.css";
+
 
 // Responsive breakpoints
 $size-xs: 480px !default;
@@ -9,6 +15,7 @@ $size-md: 840px !default;
 $size-lg: 960px !default;
 $size-xl: 1280px !default;
 $size-2x: 1440px !default;
+
 
 header,
 footer {
@@ -49,6 +56,7 @@ body {
 .body-container .left-content {
   background-color: rgb(196, 59, 59);
   color: white;
+  z-index: 100;
 }
 
 .body-container .right-content {
