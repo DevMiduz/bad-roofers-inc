@@ -22,18 +22,15 @@ footer {
   clear: both;
 }
 
-footer {
-  height: 120px;
-}
 
 .footer-container {
-  margin: 2rem;
   border-top: rgb(120, 120, 120) 1px solid;
   position: relative;
   height: 100%;
   vertical-align: middle;
   text-align: center;
   padding: 2rem;
+  background-color: #ffdd7d;
 }
 
 .footer-container {
@@ -56,7 +53,7 @@ body {
 .body-container .left-content {
   background-color: rgb(196, 59, 59);
   color: white;
-  z-index: 100;
+  z-index: 90;
 }
 
 .body-container .right-content {
@@ -118,7 +115,7 @@ body {
 .bar3 {
   width: 35px;
   height: 5px;
-  background-color: #333;
+  background-color: rgb(255, 255, 255);
   margin: 6px 0;
   transition: 0.4s;
 }
