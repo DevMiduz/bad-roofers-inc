@@ -18,7 +18,7 @@
     "parcel-transformer-handlebars": "^1.0.0"
   },
   "dependencies": {
-    "cutestrap": "^2.0.0-4",
-    "normalize.css": "^8.0.1"
+    "bulma": "^0.9.4",
+    "jquery": "^3.6.3"
   }
 }
