@@ -1,4 +1,8 @@
-@import "/node_modules/bulma/bulma.sass";
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic");
+@import "/node_modules/normalize.css/normalize.css";
+//@import "/node_modules/flexboxgrid/css/flexboxgrid.min.css";
+//@import "/node_modules/purecss/build/pure.css";
+@import "/node_modules/chota/dist/chota.css";
 
 
 // Responsive breakpoints
@@ -15,15 +19,17 @@ footer {
   clear: both;
 }
 
+footer {
+  background-color: #ffdd7d;
+}
 
 .footer-container {
-  border-top: rgb(120, 120, 120) 1px solid;
   position: relative;
   height: 100%;
   vertical-align: middle;
   text-align: center;
   padding: 2rem;
-  background-color: #ffdd7d;
+
 }
 
 .footer-container {
@@ -34,6 +40,9 @@ footer {
 
 html,
 body {
+  min-width: 100%;
+  min-height: 100%;
+  width: 100%;
   height: 100%;
 }
 
@@ -94,10 +103,11 @@ body {
 .nav-items {
   list-style: none;
   margin: 24px 0px;
-}
+  padding: 0;
 
-.nav-items li {
-  font-size: 1.5rem;
+  li {
+    font-size: 3rem;
+  }
 }
 
 /* Menu Icon START */
@@ -135,16 +145,21 @@ body {
   transform: translate(0, -11px) rotate(45deg);
 }
 
-.cards-section {
+.cards-row {
+
+  margin: 10rem 0;
   text-align: center;
 
   p {
+    font-size: 2.5rem;
+    font-style: italic;
     padding: 2rem;
+    font-weight: bold;
   }
 
   img {
     margin: auto;
-    max-width: 50%;
+    max-width: 40rem;
   }
 }
 

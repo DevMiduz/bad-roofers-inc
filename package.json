@@ -18,7 +18,12 @@
     "parcel-transformer-handlebars": "^1.0.0"
   },
   "dependencies": {
-    "bulma": "^0.9.4",
-    "jquery": "^3.6.3"
+    "@picocss/pico": "^1.5.6",
+    "chota": "^0.8.0",
+    "flexboxgrid": "^6.3.1",
+    "jquery": "^3.6.3",
+    "milligram": "^1.4.1",
+    "normalize.css": "^8.0.1",
+    "purecss": "^3.0.0"
   }
 }
