@@ -1,9 +1,23 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic");
 @import "/node_modules/normalize.css/normalize.css";
-//@import "/node_modules/flexboxgrid/css/flexboxgrid.min.css";
-//@import "/node_modules/purecss/build/pure.css";
 @import "/node_modules/chota/dist/chota.css";
 
+:root {
+  --bg-color: #ffffff;
+  --bg-secondary-color: #f3f3f6;
+  --color-primary: #14854F;
+  --color-lightGrey: #d2d6dd;
+  --color-grey: #747681;
+  --color-darkGrey: #3f4144;
+  --color-error: #d43939;
+  --color-success: #28bd14;
+  --grid-maxWidth: 120rem;
+  --grid-gutter: 2rem;
+  --font-size: 2.4rem;
+  --font-color: #333333;
+  --font-family-sans: sans-serif;
+  --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
+}
 
 // Responsive breakpoints
 $size-xs: 480px !default;
@@ -151,7 +165,7 @@ body {
   text-align: center;
 
   p {
-    font-size: 3rem;
+    font-size: 2.7rem;
     font-style: italic;
     padding: 2rem;
     font-weight: bold;
