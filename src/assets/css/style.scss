@@ -29,102 +29,64 @@ $size-lg: 960px !default;
 $size-xl: 1280px !default;
 $size-2x: 1440px !default;
 
-
-header,
-footer {
-  clear: both;
-}
-
-footer {
-  background-color: #ffdd7d;
-}
-
-.footer-container {
-  position: relative;
-  height: 100%;
-  vertical-align: middle;
-  text-align: center;
-  padding: 2rem;
-
-}
-
-.footer-container {
-  position: relative;
-  height: 100%;
-}
-
-
 html,
 body {
   min-width: 100%;
   min-height: 100%;
   width: 100%;
   height: 100%;
+  background: floralwhite;
 }
 
-/* body container START */
-.body-container {
-  min-width: 100%;
-  min-height: 100%;
+header {
+  height: 18rem;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
-.body-container .left-content {
-  background-color: rgb(196, 59, 59);
+header,
+footer {
+  clear: both;
+  width: 100%;
+  background-color: #ec4141;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+}
+
+p {
+
+}
+
+.nav {
+  display: block;
+  text-align: center;
+  position: relative;
   color: white;
   z-index: 90;
 
-  -webkit-user-select: none;
-  /* Safari */
-  -ms-user-select: none;
-  /* IE 10 and IE 11 */
-  user-select: none;
-  /* Standard syntax */
-}
+  .wrapper {
+    display: inline-block;
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+  }
 
-.body-container .right-content {
-  overflow: hidden;
-  min-height: 100vh;
-  height: 100%;
-}
+  a {
+    float: left;
+    display: inline-block;
+    color: white;
+  }
 
-.content-section {
-  padding: 2rem;
-}
-
-/* body container END */
-.navigation-base {
-  display: block;
-  position: relative;
-  text-align: center;
-  width: 100%;
-  height: 100%;
-  float: left;
-}
-
-.navigation-content a {
-  color: white;
-}
-
-.navigation-content img {
-  padding: 3rem 0px;
-  width: 60%;
-  max-width: 300px;
-}
-
-.nav-main-title {
-  font-size: 2rem;
-  margin: 24px 0px;
-}
-
-.nav-items {
-  list-style: none;
-  margin: 24px 0px;
-  padding: 0;
-
-  li {
-    font-weight: bold;
-    font-size: 3rem;
-
+  img {
+    height: 3.5rem;
+    max-height: 3.5rem;
   }
 }
 
@@ -143,7 +105,7 @@ body {
 .bar3 {
   width: 35px;
   height: 5px;
-  background-color: rgb(0, 0, 0);
+  background-color: white;
   margin: 6px 0;
   transition: 0.4s;
 }
@@ -163,9 +125,43 @@ body {
   transform: translate(0, -11px) rotate(45deg);
 }
 
-.cards-row {
+.footer-container {
+  position: relative;
+  height: 100%;
+  vertical-align: middle;
+  text-align: center;
+  padding: 2rem;
+  color: white;
+}
 
-  margin: 10rem 0;
+
+.title {
+  font-weight: 500;
+}
+
+.subtitle {
+  font-weight: 300;
+}
+
+.section {
+  padding: 8rem 1.2rem;
+
+  p {
+    text-align: justify;
+  }
+}
+
+/* body container START */
+.body-container {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content-section {
+  padding: 2rem;
+}
+
+.cards-row {
   text-align: center;
 
   p {
@@ -181,20 +177,51 @@ body {
   }
 }
 
+/* The hero image */
+.hero {
+  /* Set a specific height */
+  height: 56rem;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-color: #ff5353;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
 /* Menu Icon END */
 
 @media (max-width: $size-md) {
-  .body-container .left-content {
-    display: none;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    float: left;
+  .first-section {
+    padding-top: 4rem;
   }
 
-  .body-container .right-content {
-    margin-left: 0px;
+  header {
+    display: none;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: #ec4141;
+
+    .nav .wrapper {
+      text-align: center;
+
+      a {
+        display: block;
+        float: none;
+      }
+    }
   }
 
   .mi-container {
@@ -207,18 +234,12 @@ body {
 }
 
 @media (min-width: $size-md) {
-  .body-container .left-content {
-    display: block !important;
-    position: -webkit-sticky;
-    position: fixed;
-    top: 0;
-    width: 320px;
-    height: 100%;
-    float: left;
+  .first-section {
+    padding-top: 24rem;
   }
 
-  .body-container .right-content {
-    margin-left: 320px;
+  header {
+    display: block !important;
   }
 
   .mi-container {

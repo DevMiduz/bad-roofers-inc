@@ -1,47 +1,55 @@
 <!doctype html>
 <html lang="en"> <%- include('partials/head.ejs', { "title" : "Bad Roofers Inc - Home" }) %>
 
-<body>
-	<div class="body-container">
+<body> <%- include('partials/header.ejs') %>
+	<div class="container">
 		<div class="mi-container" onclick="showOrHideMenu(this)">
 			<div class="bar1"></div>
 			<div class="bar2"></div>
 			<div class="bar3"></div>
 		</div>
-		<div id="left-content" class="left-content"> <%- include('partials/nav.ejs') %> </div>
-		<div id="right-content" class="right-content"> <%- include('partials/header.ejs') %> <section class="content-section">
-				<section class="section">
-					<div class="container">
-						<h1 class="title">Verdict: Avoid!</h1>
-						<p> Back in March 2022, both <b>Lee Schofield</b> and <b>Will Smith</b> were hired through the company of <b>Lancashire Roofing Limited</b>. They were hired to do a full re-roof including plastic work. To this date, January 2023, the property is left with an unfinished roof, which is both poof quality and has hazardous improperly secured lead work. They were given several chances to fix the issues, so it should be noted that the current roof is with "corrected" workmanship. In most cases, instead of fixing the issues, they did their best to hide the issues. Both <b>photographic and video evidence</b> is available of this. Three roofing companies have examined and given reports confirming the work is of <b>extremely poor quality</b>, with sections being <b>hazardous</b> to the occupants.</p>
-					</div>
-				</section>
-				<section class="cards-section">
-					<div class="container">
-						<div class="cards-row row">
-							<div class="col col-12 col-4-lg">
-								<figure class="image">
-									<img src="assets/images/red_checkmark.svg" alt="Poor Workmanship">
-								</figure>
-								<p class="subtitle"> Poor Workmanship </p>
-							</div>
-							<div class="col col-12 col-4-lg">
-								<figure class="image">
-									<img src="assets/images/red_checkmark.svg" alt="Dishonest">
-								</figure>
-								<p class="subtitle">Dishonesty</p>
-							</div>
-							<div class="col col-12 col-4-lg">
-								<figure class="image">
-									<img src="assets/images/red_checkmark.svg" alt="Bad Communication">
-								</figure>
-								<p class="subtitle"> Bad Communication</p>
-							</div>
-						</div>
-					</div>
-				</section>
-			</section> <%- include('partials/footer.ejs') %> </div>
-	</div> <%- include('partials/scripts.ejs') %>
+		<section class="section first-section">
+			<h1 class="title">Where did it begin?</h1>
+			
+			<p>
+				Back in March 2022, both <b>Lee Schofield</b>
+				(from Euxton) and <b>Will Smith</b> (from Leyland) were hired through the company of <b>Lancashire Roofing
+					Limited</b>.
+				They were hired to do a full re-roof including plastic work. To this date, January 2023, the property is left with
+				an unfinished roof,
+				which is both poof quality and has hazardous improperly secured lead work.
+				They were given several chances to fix the issues, so it should be noted that the current roof is with "corrected"
+				workmanship.
+				In most cases, instead of fixing the issues, they did their best to hide the issues. Both <b>photographic and video
+					evidence</b> is available of this.
+				Three roofing companies have examined and given reports confirming the work is of <b>extremely poor quality</b>,
+				with sections being <b>hazardous</b> to the occupants.
+			</p>
+
+		</section>
+		<section class="cards-section">
+			<div class="cards-row row">
+				<div class="col col-12 col-4-lg">
+					<figure class="image">
+						<img src="assets/images/red_checkmark.svg" alt="Poor Workmanship">
+					</figure>
+					<p class="subtitle"> Poor Workmanship </p>
+				</div>
+				<div class="col col-12 col-4-lg">
+					<figure class="image">
+						<img src="assets/images/red_checkmark.svg" alt="Dishonest">
+					</figure>
+					<p class="subtitle">Dishonesty</p>
+				</div>
+				<div class="col col-12 col-4-lg">
+					<figure class="image">
+						<img src="assets/images/red_checkmark.svg" alt="Bad Communication">
+					</figure>
+					<p class="subtitle"> Bad Communication</p>
+				</div>
+			</div>
+		</section>
+	</div> <%- include('partials/footer.ejs') %> <%- include('partials/scripts.ejs') %>
 </body>
 
 </html>

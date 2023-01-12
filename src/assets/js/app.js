@@ -1,7 +1,7 @@
 function showOrHideMenu(x) {
     $(x).toggleClass("change");
 
-    const menuDrawer = $("#left-content");
+    const menuDrawer = $("header");
     if (menuDrawer.is(":visible")) {
         menuDrawer.fadeOut("fast");
     } else {
