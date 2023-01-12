@@ -39,7 +39,7 @@ body {
 }
 
 header {
-  height: 18rem;
+  height: 10rem;
   position: fixed;
   top: 0;
   left: 0;
@@ -57,13 +57,9 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6 {}
 
-}
-
-p {
-
-}
+p {}
 
 .nav {
   display: block;
@@ -74,8 +70,8 @@ p {
 
   .wrapper {
     display: inline-block;
-    padding-top: 6rem;
-    padding-bottom: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 
   a {
@@ -105,7 +101,7 @@ p {
 .bar3 {
   width: 35px;
   height: 5px;
-  background-color: white;
+  background-color: black;
   margin: 6px 0;
   transition: 0.4s;
 }
@@ -132,6 +128,12 @@ p {
   text-align: center;
   padding: 2rem;
   color: white;
+
+  a {
+    color:white;
+    text-decoration: underline;
+    font-weight: 600;
+  }
 }
 
 
@@ -171,11 +173,16 @@ p {
     font-weight: bold;
   }
 
-  img {
-    margin: auto;
-    max-width: 40rem;
-    width:100%;
+  figure {
+
+    img {
+      width: 28rem;
+      height: 28rem;
+    }
   }
+
+
+
 }
 
 /* The hero image */
@@ -236,7 +243,7 @@ p {
 
 @media (min-width: $size-md) {
   .first-section {
-    padding-top: 24rem;
+    padding-top: 14rem;
   }
 
   header {
