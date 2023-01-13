@@ -72,17 +72,27 @@ p {}
     display: inline-block;
     padding-top: 2rem;
     padding-bottom: 2rem;
-  }
 
-  a {
-    float: left;
-    display: inline-block;
-    color: white;
-  }
 
-  img {
-    height: 3.5rem;
-    max-height: 3.5rem;
+    a {
+      float: left;
+      display: inline-block;
+      color: white;
+    }
+
+    img {
+      height: 3.5rem;
+      max-height: 3.5rem;
+    }
+
+    img.caution-image {
+      display: none;
+      max-width: 100%;
+      max-height: 100%;
+      margin-top: 4rem;
+      width: 32rem;
+      height: 100%;
+    }
   }
 }
 
@@ -216,6 +226,7 @@ p {}
 /* Menu Icon END */
 
 @media (max-width: $size-md) {
+
   .first-section {
     padding-top: 4rem;
   }
@@ -233,6 +244,11 @@ p {}
       a {
         display: block;
         float: none;
+        font-size: 3rem;
+      }
+
+      img.caution-image {
+        display: block;
       }
     }
   }
