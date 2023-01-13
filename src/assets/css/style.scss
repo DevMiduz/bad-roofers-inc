@@ -50,6 +50,7 @@ footer {
   clear: both;
   width: 100%;
   background-color: #ec4141;
+  z-index: 9998;
 }
 
 h1,
@@ -66,7 +67,6 @@ p {}
   text-align: center;
   position: relative;
   color: white;
-  z-index: 90;
 
   .wrapper {
     display: inline-block;
@@ -93,7 +93,7 @@ p {}
   cursor: pointer;
   top: 15px;
   right: 15px;
-  z-index: 100;
+  z-index: 9999;
 }
 
 .bar1,

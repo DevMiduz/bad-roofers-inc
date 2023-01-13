@@ -9,3 +9,5 @@ function showOrHideMenu(x) {
     }
 
 }
+
+ScrollReveal().reveal(".cards-row .col")
