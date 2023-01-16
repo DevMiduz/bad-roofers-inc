@@ -1,5 +1,20 @@
 {
-    "locals": {
-        "foo": "bar"
+    "articles":{ 
+        "images_path": "assets/images/gallery/",
+        "thumbs_path": "assets/images/gallery/thumbnails/",
+        "data": [
+        { 
+            "title": "Article 1.",
+            "excerpt": "My test article excerpt which has little or not use purely and simply it is here to demonstrate how a reasonable amount of text should be added to the articles display box and in reality an excerpt should have an accurate and useful description with proper punctuation and grammar but this is not the case for this.",
+            "image": "article_placeholder_thumb.jpg",
+            "link": "article-1"
+        },
+                {
+                    "title": "Article 2.",
+                    "excerpt": "My test article excerpt which has little or not use purely and simply it is here to demonstrate how a reasonable amount of text should be added to the articles display box and in reality an excerpt should have an accurate and useful description with proper punctuation and grammar but this is not the case for this.",
+                    "image": "article_placeholder_thumb.jpg",
+                    "link": "article-2"
+                }
+    ]
     }
 }

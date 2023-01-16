@@ -85,6 +85,16 @@
 			<p></p>
 		</section>
 
+		<section class="section">
+
+
+			<% articles.data.forEach(function(article){ %>
+				<p><a href="<%= article.link %>"><%= article.title %></a></p>
+				<p><img src="<%= articles.thumbs_path + article.image %>"/></p>
+				<p><%= article.excerpt %></p>
+			<% }); %>
+		</section>
+
 	</div> <%- include('partials/footer.ejs') %> <%- include('partials/scripts.ejs') %>
 </body>
 
