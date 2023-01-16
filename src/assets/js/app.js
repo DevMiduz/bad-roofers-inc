@@ -1,7 +1,7 @@
 function showOrHideMenu(x) {
     $(x).toggleClass("change");
 
-    const menuDrawer = $("header");
+    const menuDrawer = $(".main-header");
     if ($(x).hasClass("change")) {
         $("html").css("overflow", "hidden");
         menuDrawer.fadeIn("fast");
