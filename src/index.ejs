@@ -88,24 +88,7 @@
 		<section class="section">
 			<div class="row">
 			<% articles.data.forEach(function(article){ %>
-				<div class="image-card col-12 col-6-md col-4-lg ">
-					<div class="image-header">
-						<img src="<%= articles.thumbs_path + article.image %>" />
-					</div>
-					<div class="content">
-						<header>
-							<h3><%= article.title %></h3>
-						</header>
-						
-						<div class="text-content">
-							<p><%= article.excerpt %></p>
-						</div>
-
-						<footer>
-							<a href="<%= article.link %>" class="button error">Read More</a>
-						</footer>
-					</div>
-				</div>
+				<%- include("partials/article.ejs", { "article": article }) %>
 			<% }); %>
 			</div>
 		</section>
