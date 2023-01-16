@@ -267,6 +267,9 @@ p {}
     header {
       all: initial;
 
+      .title {
+        
+      }
 
     }
 
@@ -275,6 +278,7 @@ p {}
       font-size: 0.8em;
       overflow: hidden;
       text-overflow: ellipsis;
+      font-weight: 600;
     }
 
     footer {
