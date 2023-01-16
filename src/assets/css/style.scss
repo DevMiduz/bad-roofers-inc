@@ -263,6 +263,10 @@ p {}
 }
 
 @media (min-width: $size-md) {
+  html {
+    overflow: auto !important;
+  }
+
   .first-section {
     padding-top: 14rem;
   }

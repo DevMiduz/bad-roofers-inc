@@ -4,8 +4,10 @@ function showOrHideMenu(x) {
     const menuDrawer = $("header");
     if (menuDrawer.is(":visible")) {
         menuDrawer.fadeOut("fast");
+        $("html").css("overflow", "auto");
     } else {
         menuDrawer.fadeIn("fast");
+        $("html").css("overflow", "hidden");
     }
 
 }
