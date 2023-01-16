@@ -53,8 +53,7 @@ footer {
   z-index: 9998;
 }
 
-h1 
-h2,
+h1 h2,
 h3,
 h4,
 h5,
@@ -224,6 +223,70 @@ p {}
 }
 
 /* Menu Icon END */
+
+.image-card {
+  border-radius: 15px;
+  border: solid 1px white;
+
+  position: relative;
+  max-width: 380px;
+  //max-height: 410px;
+
+  min-width: 380px;
+  min-height: 410px;
+
+  margin: 1rem auto;
+
+  .image-header {
+    border-radius: 15px;
+    border: solid 1px white;
+    position: relative;
+    width: 100%;
+
+    img {
+      border-radius: 15px;
+      border: solid 1px white;
+      width: 100%;
+    }
+  }
+
+  .content {
+    border-radius: 15px;
+    border: solid 1px white;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.85;
+
+
+    padding: 2rem;
+
+
+    header {
+      all: initial;
+
+
+    }
+
+    .text-content {
+      height: 60%;
+      font-size: 0.8em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    footer {
+      all: initial;
+      display: block;
+      text-align: center;
+      padding-top: 1.5rem;
+    }
+  }
+
+
+}
 
 @media (max-width: $size-md) {
 

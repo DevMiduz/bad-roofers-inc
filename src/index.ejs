@@ -86,13 +86,28 @@
 		</section>
 
 		<section class="section">
-
-
+			<div class="row">
 			<% articles.data.forEach(function(article){ %>
-				<p><a href="<%= article.link %>"><%= article.title %></a></p>
-				<p><img src="<%= articles.thumbs_path + article.image %>"/></p>
-				<p><%= article.excerpt %></p>
+				<div class="image-card col-12 col-6-md col-4-lg ">
+					<div class="image-header">
+						<img src="<%= articles.thumbs_path + article.image %>" />
+					</div>
+					<div class="content">
+						<header>
+							<h3><%= article.title %></h3>
+						</header>
+						
+						<div class="text-content">
+							<p><%= article.excerpt %></p>
+						</div>
+
+						<footer>
+							<a href="<%= article.link %>" class="button error">Read More</a>
+						</footer>
+					</div>
+				</div>
 			<% }); %>
+			</div>
 		</section>
 
 	</div> <%- include('partials/footer.ejs') %> <%- include('partials/scripts.ejs') %>
