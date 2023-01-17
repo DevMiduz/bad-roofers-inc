@@ -1,12 +1,17 @@
-<!doctype html>
-<html lang="en"> <%- include('partials/head.ejs', { "title" : "Bad Roofers Inc - Home" }) %>
+<% 
+	page = "home"
+%>
 
-<body> <%- include('partials/header.ejs') %>
+<!doctype html>
+<html lang="en"> <%- include('partials/head.ejs', { title: "Bad Roofers Inc - Home" }) %>
+
+<body> 
+	<%- include('partials/header.ejs') %>
 	<div class="container">
 
 		<section class="section first-section">
 			<h2 class="title">Where did it begin?</h2>
-			
+			<%- page %>
 			<p>
 				Back in March 2022, both <b>Lee Schofield</b>
 				(from Euxton) and <b>Will Smith</b> (from Leyland) were hired through the company of <b>Lancashire Roofing

@@ -6,8 +6,8 @@
 
 :root {
   --bg-color: #ffffff;
-  --bg-secondary-color: #f3f3f6;
-  --color-primary: #14854F;
+  --bg-secondary-color: #ffffff;
+  --color-primary: #ec4141;
   --color-lightGrey: #d2d6dd;
   --color-grey: #747681;
   --color-darkGrey: #3f4144;
@@ -44,6 +44,12 @@ header {
   top: 0;
   left: 0;
 }
+
+  a.active {
+    color: var(--bg-secondary-color) !important;
+    font-weight: 600;
+    text-decoration: underline;
+  }
 
 header,
 footer {
@@ -267,9 +273,7 @@ p {}
     header {
       all: initial;
 
-      .title {
-        
-      }
+      .title {}
 
     }
 
