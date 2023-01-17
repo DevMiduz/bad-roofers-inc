@@ -7,6 +7,7 @@
       <%- include('partials/header.ejs') %>
         <div class="container">
           <section class="section first-section">
+            <h1>Gallery</h1>
               <div class="row">
                 <% gallery.data.forEach(function(gallery_item){ %>
                     <%- include("partials/gallery-item.ejs", { "gallery_item" : gallery_item }) %>
