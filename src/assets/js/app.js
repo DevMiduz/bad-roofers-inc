@@ -15,3 +15,4 @@ function showOrHideMenu(x) {
 
 ScrollReveal().reveal(".cards-row .col");
 ScrollReveal().reveal(".image-card")
+ScrollReveal().reveal(".image-section")
