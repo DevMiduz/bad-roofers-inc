@@ -110,6 +110,3 @@ dist
 .parcel-cache/data.mdb
 
 src/assets/images/gallery
-src/assets/images/gallery/*
-src/assets/images/gallery/thumbnails
-src/assets/images/gallery/thumbnails/*
