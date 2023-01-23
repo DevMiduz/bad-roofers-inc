@@ -109,7 +109,7 @@ dist
 .parcel-cache/lock.mdb
 .parcel-cache/data.mdb
 
-assets/images/gallery
-assets/images/gallery/*
-assets/images/gallery/thumbnails
-assets/images/gallery/thumbnails/*
+src/assets/images/gallery
+src/assets/images/gallery/*
+src/assets/images/gallery/thumbnails
+src/assets/images/gallery/thumbnails/*
