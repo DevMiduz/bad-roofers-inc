@@ -138,6 +138,14 @@
 							src="<%= gallery.thumbs_path + 'IMG_20220725_044136 (Small).jpg' %>" /></a>
 				</div>
 			</div>
+
+			<br />
+			<div class="row">
+				<div class="col text-center">
+					<a href="gallery.ejs" class="button primary">Click Here for More...</a>
+				</div>
+			</div>
+			<br />
 						
 		</section>
 		
@@ -164,6 +172,16 @@
 				<%- include("partials/article.ejs", { "article": article }) %>
 			<% }); %>
 			</div>
+
+			<br/>
+
+			<div class="row">
+				<div class="col text-center">
+					<a href="articles.ejs" class="button primary">Click Here for More...</a>
+				</div>
+			</div>
+
+			<br />
 		</section>
 
 	</div> <%- include('partials/footer.ejs') %> <%- include('partials/scripts.ejs') %>
