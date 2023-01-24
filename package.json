@@ -1,15 +1,13 @@
 {
   "name": "bad-roofers-inc",
   "version": "1.0.0",
-  "main": "main.js",
   "repository": "https://github.com/DevMiduz/bad-roofers-inc.git",
   "author": "Dev Miduz",
   "license": "MIT",
   "private": null,
-  "source": "src/index.ejs",
   "scripts": {
-    "start": "parcel --public-url /",
-    "build": "parcel build --public-url /"
+    "start": "parcel './src/*.ejs' --public-url /",
+    "build": "parcel build './src/*.ejs' --public-url /"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "2.8.2",
