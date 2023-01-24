@@ -187,6 +187,23 @@ p {}
   }
 }
 
+.terms-and-conditions-section {
+  padding: 3rem 1.2rem;
+  text-align: center;
+
+  ul {
+    text-align: justify;
+  }
+
+  ul li {
+    font-size: 1.2em;
+  }
+
+  p {
+    font-size: 1.2em;
+  }
+}
+
 /* body container START */
 .body-container {
   min-width: 100%;
