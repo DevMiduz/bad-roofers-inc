@@ -31,19 +31,1369 @@
             "thumbs_path": "assets/images/gallery/thumbnails/",
             "data": [
                 {
-                    "alt": "Battens have been pieced up and reusing old wood, instead of replacing with new wood.",
+                    "image": "IMG_20221015_115158 (Large).jpg",
+                    "thumbnail": "IMG_20221015_115158 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_130402 (Large).jpg",
+                    "thumbnail": "IMG_20220501_130402 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171143 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171143 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122055 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122055 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_140439 (Large).jpg",
+                    "thumbnail": "IMG_20220521_140439 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_165744 (Large).jpg",
+                    "thumbnail": "IMG_20220412_165744 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_172411 (Large).jpg",
+                    "thumbnail": "IMG_20220412_172411 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_140429 (Large).jpg",
+                    "thumbnail": "IMG_20220521_140429 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_092905 (Large).jpg",
+                    "thumbnail": "IMG_20220423_092905 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220422_170310 (Large).jpg",
+                    "thumbnail": "IMG_20220422_170310 (Small).jpg",
+                    "alt": "",
+                    "date": "20220422",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_132355 (Large).jpg",
+                    "thumbnail": "IMG_20220501_132355 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113439 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113439 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112516 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112516 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220725_074111 (Large).jpg",
+                    "thumbnail": "IMG_20220725_074111 (Small).jpg",
+                    "alt": "",
+                    "date": "20220725",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122417 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122417 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_132345 (Large).jpg",
+                    "thumbnail": "IMG_20220501_132345 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221018_134733 (Large).jpg",
+                    "thumbnail": "IMG_20221018_134733 (Small).jpg",
+                    "alt": "",
+                    "date": "20221018",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140913 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140913 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220728_170355 (Large).jpg",
+                    "thumbnail": "IMG_20220728_170355 (Small).jpg",
+                    "alt": "",
+                    "date": "20220728",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220512_135557 (Large).jpg",
+                    "thumbnail": "IMG_20220512_135557 (Small).jpg",
+                    "alt": "",
+                    "date": "20220512",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220814_135957 (Large).jpg",
+                    "thumbnail": "IMG_20220814_135957 (Small).jpg",
+                    "alt": "",
+                    "date": "20220814",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170652 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170652 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_135541 (Large).jpg",
+                    "thumbnail": "IMG_20220521_135541 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220411_171951 (Large).jpg",
+                    "thumbnail": "IMG_20220411_171951 (Small).jpg",
+                    "alt": "",
+                    "date": "20220411",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_135904 (Large).jpg",
+                    "thumbnail": "IMG_20220518_135904 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113546 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113546 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170008 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170008 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122249 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122249 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_133115 (Large).jpg",
+                    "thumbnail": "IMG_20220501_133115 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_135901 (Large).jpg",
+                    "thumbnail": "IMG_20220518_135901 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_093012 (Large).jpg",
+                    "thumbnail": "IMG_20220423_093012 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220814_135028 (Large).jpg",
+                    "thumbnail": "IMG_20220814_135028 (Small).jpg",
+                    "alt": "",
+                    "date": "20220814",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122214 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122214 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_115404 (Large).jpg",
+                    "thumbnail": "IMG_20221015_115404 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_140640 (Large).jpg",
+                    "thumbnail": "IMG_20220521_140640 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170012 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170012 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141757 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141757 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_132634 (Large).jpg",
+                    "thumbnail": "IMG_20220501_132634 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220512_143323 (Large).jpg",
+                    "thumbnail": "IMG_20220512_143323 (Small).jpg",
+                    "alt": "",
+                    "date": "20220512",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_114602 (Large).jpg",
+                    "thumbnail": "IMG_20221015_114602 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_092941 (Large).jpg",
+                    "thumbnail": "IMG_20220423_092941 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112822 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112822 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140148 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140148 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171118 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171118 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_114323 (Large).jpg",
+                    "thumbnail": "IMG_20221015_114323 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171353 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171353 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_120754 (Large).jpg",
+                    "thumbnail": "IMG_20220501_120754 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_172313 (Large).jpg",
+                    "thumbnail": "IMG_20220412_172313 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_165807 (Large).jpg",
+                    "thumbnail": "IMG_20220412_165807 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_135913 (Large).jpg",
+                    "thumbnail": "IMG_20220518_135913 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112905 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112905 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140241 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140241 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140434 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140434 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_132926 (Large).jpg",
+                    "thumbnail": "IMG_20220501_132926 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220427_142729 (Large).jpg",
+                    "thumbnail": "IMG_20220427_142729 (Small).jpg",
+                    "alt": "",
+                    "date": "20220427",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221018_134727 (Large).jpg",
+                    "thumbnail": "IMG_20221018_134727 (Small).jpg",
+                    "alt": "",
+                    "date": "20221018",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_133544 (Large).jpg",
+                    "thumbnail": "IMG_20220501_133544 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_113125 (Large).jpg",
+                    "thumbnail": "IMG_20220720_113125 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171007 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171007 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_090901 (Large).jpg",
+                    "thumbnail": "IMG_20220423_090901 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122115 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122115 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141319 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141319 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_172536 (Large).jpg",
+                    "thumbnail": "IMG_20220412_172536 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220522_103945 (Large).jpg",
+                    "thumbnail": "IMG_20220522_103945 (Small).jpg",
+                    "alt": "",
+                    "date": "20220522",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221227_140105 (Large).jpg",
+                    "thumbnail": "IMG_20221227_140105 (Small).jpg",
+                    "alt": "",
+                    "date": "20221227",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220427_143211 (Large).jpg",
+                    "thumbnail": "IMG_20220427_143211 (Small).jpg",
+                    "alt": "",
+                    "date": "20220427",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140441 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140441 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_155923 (Large).jpg",
+                    "thumbnail": "IMG_20220412_155923 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_140638 (Large).jpg",
+                    "thumbnail": "IMG_20220521_140638 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221018_134736 (Large).jpg",
+                    "thumbnail": "IMG_20221018_134736 (Small).jpg",
+                    "alt": "",
+                    "date": "20221018",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_093044 (Large).jpg",
+                    "thumbnail": "IMG_20220423_093044 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220512_135616 (Large).jpg",
+                    "thumbnail": "IMG_20220512_135616 (Small).jpg",
+                    "alt": "",
+                    "date": "20220512",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113539 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113539 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221227_140051 (Large).jpg",
+                    "thumbnail": "IMG_20221227_140051 (Small).jpg",
+                    "alt": "",
+                    "date": "20221227",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_115733 (Large).jpg",
+                    "thumbnail": "IMG_20221015_115733 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220814_135030 (Large).jpg",
+                    "thumbnail": "IMG_20220814_135030 (Small).jpg",
+                    "alt": "",
+                    "date": "20220814",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112849 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112849 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221025_154121 (Large).jpg",
+                    "thumbnail": "IMG_20221025_154121 (Small).jpg",
+                    "alt": "",
+                    "date": "20221025",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171116 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171116 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112116 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112116 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170955 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170955 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220725_044136 (Large).jpg",
+                    "thumbnail": "IMG_20220725_044136 (Small).jpg",
+                    "alt": "",
+                    "date": "20220725",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221025_154137 (Large).jpg",
+                    "thumbnail": "IMG_20221025_154137 (Small).jpg",
+                    "alt": "",
+                    "date": "20221025",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_090910 (Large).jpg",
+                    "thumbnail": "IMG_20220423_090910 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220422_171141 (Large).jpg",
+                    "thumbnail": "IMG_20220422_171141 (Small).jpg",
+                    "alt": "",
+                    "date": "20220422",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_090905 (Large).jpg",
+                    "thumbnail": "IMG_20220423_090905 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_120432 (Large).jpg",
+                    "thumbnail": "IMG_20221015_120432 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_131405 (Large).jpg",
+                    "thumbnail": "IMG_20220501_131405 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141225 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141225 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112246 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112246 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_113122 (Large).jpg",
+                    "thumbnail": "IMG_20220720_113122 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_124103 (Large).jpg",
+                    "thumbnail": "IMG_20221015_124103 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141216 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141216 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171355 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171355 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122139 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122139 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_115409 (Large).jpg",
+                    "thumbnail": "IMG_20221015_115409 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112920 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112920 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220804_152716 (Large).jpg",
+                    "thumbnail": "IMG_20220804_152716 (Small).jpg",
+                    "alt": "",
+                    "date": "20220804",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_124227 (Large).jpg",
+                    "thumbnail": "IMG_20221015_124227 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221206_111353 (Large).jpg",
+                    "thumbnail": "IMG_20221206_111353 (Small).jpg",
+                    "alt": "",
+                    "date": "20221206",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221018_134723 (Large).jpg",
+                    "thumbnail": "IMG_20221018_134723 (Small).jpg",
+                    "alt": "",
+                    "date": "20221018",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171017 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171017 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113803 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113803 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_133609 (Large).jpg",
+                    "thumbnail": "IMG_20220501_133609 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_130435 (Large).jpg",
+                    "thumbnail": "IMG_20220501_130435 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_135558 (Large).jpg",
+                    "thumbnail": "IMG_20220521_135558 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170926 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170926 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_120802 (Large).jpg",
+                    "thumbnail": "IMG_20220501_120802 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220512_143317 (Large).jpg",
+                    "thumbnail": "IMG_20220512_143317 (Small).jpg",
+                    "alt": "",
+                    "date": "20220512",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122930 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122930 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112303 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112303 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_122216 (Large).jpg",
+                    "thumbnail": "IMG_20220501_122216 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_114549 (Large).jpg",
+                    "thumbnail": "IMG_20221015_114549 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220422_171155 (Large).jpg",
+                    "thumbnail": "IMG_20220422_171155 (Small).jpg",
+                    "alt": "",
+                    "date": "20220422",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170202 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170202 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221018_134740 (Large).jpg",
+                    "thumbnail": "IMG_20221018_134740 (Small).jpg",
+                    "alt": "",
+                    "date": "20221018",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_140420 (Large).jpg",
+                    "thumbnail": "IMG_20220521_140420 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_135535 (Large).jpg",
+                    "thumbnail": "IMG_20220521_135535 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170518 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170518 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_165518 (Large).jpg",
+                    "thumbnail": "IMG_20220412_165518 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_160020 (Large).jpg",
+                    "thumbnail": "IMG_20220412_160020 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112242 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112242 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_135601 (Large).jpg",
+                    "thumbnail": "IMG_20220521_135601 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112125 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112125 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_113120 (Large).jpg",
+                    "thumbnail": "IMG_20220720_113120 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220427_143139 (Large).jpg",
+                    "thumbnail": "IMG_20220427_143139 (Small).jpg",
+                    "alt": "",
+                    "date": "20220427",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220725_074104 (Large).jpg",
+                    "thumbnail": "IMG_20220725_074104 (Small).jpg",
+                    "alt": "",
+                    "date": "20220725",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220702_101505 (Large).jpg",
+                    "thumbnail": "IMG_20220702_101505 (Small).jpg",
+                    "alt": "",
+                    "date": "20220702",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_121915 (Large).jpg",
+                    "thumbnail": "IMG_20220501_121915 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141200 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141200 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171108 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171108 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_120715 (Large).jpg",
+                    "thumbnail": "IMG_20220501_120715 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141833 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141833 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220725_044143 (Large).jpg",
+                    "thumbnail": "IMG_20220725_044143 (Small).jpg",
+                    "alt": "",
+                    "date": "20220725",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141847 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141847 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_120344 (Large).jpg",
+                    "thumbnail": "IMG_20221015_120344 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_120231 (Large).jpg",
+                    "thumbnail": "IMG_20221015_120231 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_114600 (Large).jpg",
+                    "thumbnail": "IMG_20221015_114600 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170156 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170156 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221011_145753 (Large).jpg",
+                    "thumbnail": "IMG_20221011_145753 (Small).jpg",
+                    "alt": "",
+                    "date": "20221011",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220427_142827 (Large).jpg",
+                    "thumbnail": "IMG_20220427_142827 (Small).jpg",
+                    "alt": "",
+                    "date": "20220427",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140755 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140755 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_124059 (Large).jpg",
+                    "thumbnail": "IMG_20221015_124059 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140453 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140453 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221025_155315 (Large).jpg",
+                    "thumbnail": "IMG_20221025_155315 (Small).jpg",
+                    "alt": "",
+                    "date": "20221025",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141838 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141838 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_135537 (Large).jpg",
+                    "thumbnail": "IMG_20220521_135537 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113759 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113759 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_130634 (Large).jpg",
+                    "thumbnail": "IMG_20220501_130634 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140751 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140751 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_133542 (Large).jpg",
+                    "thumbnail": "IMG_20220501_133542 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170529 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170529 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113430 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113430 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_135909 (Large).jpg",
+                    "thumbnail": "IMG_20220518_135909 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_135932 (Large).jpg",
+                    "thumbnail": "IMG_20220518_135932 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_124009 (Large).jpg",
+                    "thumbnail": "IMG_20221015_124009 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
                     "image": "IMG_20220411_171036 (Large).jpg",
-                    "thumbnail": "IMG_20220411_171036 (Small).jpg"
+                    "thumbnail": "IMG_20220411_171036 (Small).jpg",
+                    "alt": "",
+                    "date": "20220411",
+                    "priority": 1
                 },
                 {
-                    "alt": "A placeholder image.",
-                    "image": "article_placeholder.jpg",
-                    "thumbnail": "article_placeholder_thumb.jpg"
+                    "image": "IMG_20220423_092956 (Large).jpg",
+                    "thumbnail": "IMG_20220423_092956 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
                 },
                 {
-                    "alt": "A placeholder image.",
-                    "image": "article_placeholder.jpg",
-                    "thumbnail": "article_placeholder_thumb.jpg"
+                    "image": "IMG_20220423_085634 (Large).jpg",
+                    "thumbnail": "IMG_20220423_085634 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_135550 (Large).jpg",
+                    "thumbnail": "IMG_20220521_135550 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_120313 (Large).jpg",
+                    "thumbnail": "IMG_20221015_120313 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140853 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140853 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170511 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170511 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140449 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140449 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112847 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112847 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113223 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113223 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141205 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141205 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220725_044139 (Large).jpg",
+                    "thumbnail": "IMG_20220725_044139 (Small).jpg",
+                    "alt": "",
+                    "date": "20220725",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140153 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140153 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220804_152723 (Large).jpg",
+                    "thumbnail": "IMG_20220804_152723 (Small).jpg",
+                    "alt": "",
+                    "date": "20220804",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113547 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113547 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113435 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113435 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_113313 (Large).jpg",
+                    "thumbnail": "IMG_20221015_113313 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221015_120244 (Large).jpg",
+                    "thumbnail": "IMG_20221015_120244 (Small).jpg",
+                    "alt": "",
+                    "date": "20221015",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220428_134004 (Large).jpg",
+                    "thumbnail": "IMG_20220428_134004 (Small).jpg",
+                    "alt": "",
+                    "date": "20220428",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220521_135636 (Large).jpg",
+                    "thumbnail": "IMG_20220521_135636 (Small).jpg",
+                    "alt": "",
+                    "date": "20220521",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171344 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171344 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112250 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112250 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_165938 (Large).jpg",
+                    "thumbnail": "IMG_20220412_165938 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220702_101502 (Large).jpg",
+                    "thumbnail": "IMG_20220702_101502 (Small).jpg",
+                    "alt": "",
+                    "date": "20220702",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112301 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112301 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140855 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140855 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_130405 (Large).jpg",
+                    "thumbnail": "IMG_20220501_130405 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220423_093050 (Large).jpg",
+                    "thumbnail": "IMG_20220423_093050 (Small).jpg",
+                    "alt": "",
+                    "date": "20220423",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220725_144411 (Large).jpg",
+                    "thumbnail": "IMG_20220725_144411 (Small).jpg",
+                    "alt": "",
+                    "date": "20220725",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220720_112911 (Large).jpg",
+                    "thumbnail": "IMG_20220720_112911 (Small).jpg",
+                    "alt": "",
+                    "date": "20220720",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_171011 (Large).jpg",
+                    "thumbnail": "IMG_20220412_171011 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220412_170229 (Large).jpg",
+                    "thumbnail": "IMG_20220412_170229 (Small).jpg",
+                    "alt": "",
+                    "date": "20220412",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220501_132923 (Large).jpg",
+                    "thumbnail": "IMG_20220501_132923 (Small).jpg",
+                    "alt": "",
+                    "date": "20220501",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_140759 (Large).jpg",
+                    "thumbnail": "IMG_20220518_140759 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220728_170357 (Large).jpg",
+                    "thumbnail": "IMG_20220728_170357 (Small).jpg",
+                    "alt": "",
+                    "date": "20220728",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220427_142812 (Large).jpg",
+                    "thumbnail": "IMG_20220427_142812 (Small).jpg",
+                    "alt": "",
+                    "date": "20220427",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20221227_140055 (Large).jpg",
+                    "thumbnail": "IMG_20221227_140055 (Small).jpg",
+                    "alt": "",
+                    "date": "20221227",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220518_141003 (Large).jpg",
+                    "thumbnail": "IMG_20220518_141003 (Small).jpg",
+                    "alt": "",
+                    "date": "20220518",
+                    "priority": 1
+                },
+                {
+                    "image": "IMG_20220427_143121 (Large).jpg",
+                    "thumbnail": "IMG_20220427_143121 (Small).jpg",
+                    "alt": "",
+                    "date": "20220427",
+                    "priority": 1
                 }
             ]
         }
