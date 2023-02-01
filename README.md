@@ -7,19 +7,19 @@ Lancashire Roofing Limited were originally hired by a neighbour to do a re-roof.
 
 Here is a list from three independent roof inspections, all of which agreed that this is required to get the roof into a fit state:
 
-    Complete realignment of gauge spacing on battens.
-    Correct nailing of all tiles.
-    Dry ridge realignment and fixing properly.
-    Re-coating of front and back flat roofs.
-    Removal and replacement of flat roofs to stop pooling.
-    UPVC boxing of cladding for ends front and back.
-    Top layer of shingles front and back missing.
-    Removal of bottom layer of shingles to cover wood with lead to correct lead work.
-    Re-fixing ridge tiles, spacers, and membrane.
-    All lead work to be replaced completed with proper fixings.
-    Remove and reuse existing tiles and fix with new fixings.
-    Replacement of damaged membrane.
-    All scaffolding required included.
-    Arrange site clearance and removal of all debris
+-Complete realignment of gauge spacing on battens.
+-Correct nailing of all tiles.
+-Dry ridge realignment and fixing properly.
+-Re-coating of front and back flat roofs.
+-Removal and replacement of flat roofs to stop pooling.
+-UPVC boxing of cladding for ends front and back.
+-Top layer of shingles front and back missing.
+-Removal of bottom layer of shingles to cover wood with lead to correct lead work.
+-Re-fixing ridge tiles, spacers, and membrane.
+-All lead work to be replaced completed with proper fixings.
+-Remove and reuse existing tiles and fix with new fixings.
+-Replacement of damaged membrane.
+-All scaffolding required included.
+-Arrange site clearance and removal of all debris
 
 For those who want are in a rush... For all your roofing needs be sure to STAY CLEAR OF LANCASHIRE ROOFING LIMITED, LEE SCHOFIELD, AND WILL SMITH. If you have had work done by Lancashire Roofing Limited, Lee Schofield, or Will Smith, then we recommend you get an independent inspection or survey done to avoid a horrible surprise in the future. The whole experience from start to finish will be covered in the posted articles and images are available in the gallery. 
