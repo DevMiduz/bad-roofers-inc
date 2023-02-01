@@ -22,4 +22,4 @@ Here is a list from three independent roof inspections, all of which agreed that
 - All scaffolding required included.
 - Arrange site clearance and removal of all debris
 
-For those who want are in a rush... For all your roofing needs be sure to STAY CLEAR OF LANCASHIRE ROOFING LIMITED, LEE SCHOFIELD, AND WILL SMITH. If you have had work done by Lancashire Roofing Limited, Lee Schofield, or Will Smith, then we recommend you get an independent inspection or survey done to avoid a horrible surprise in the future. The whole experience from start to finish will be covered in the posted articles and images are available in the gallery. 
+For those who want are in a rush... For all your roofing needs be sure to STAY CLEAR OF LANCASHIRE ROOFING LIMITED, LEE SCHOFIELD, AND WILL SMITH. If you have had work done by Lancashire Roofing Limited, Lee Schofield, or Will Smith, then we recommend you get an independent inspection or survey done to avoid a horrible surprise in the future. The whole experience from start to finish will be covered on this website and images are available in the gallery. 
