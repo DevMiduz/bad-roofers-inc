@@ -270,6 +270,9 @@ p {}
 .horizontal-image-row {
   img {
     width: 100%;
+    object-fit: cover;
+    height: 205;
+    max-height:320px;
   }
 }
 
